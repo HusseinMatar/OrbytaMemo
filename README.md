@@ -2,26 +2,47 @@
 
 OrbytaMemo is a **cosmic-themed memory game** built with **Angular** and **Firebase**, designed to challenge your memory while offering a fun and visually engaging experience.
 
-## 🌌 Features
+---
 
-- 🃏 **StellarMatch**: Classic card-matching game with space-themed visuals.
-- 🧩 **AstroPuzzle**: A preview-based puzzle game with multiple difficulty levels.
-- 🪐 Responsive and animated UI
-- 🔥 Real-time score tracking and leaderboard via Firebase Realtime DB
-- 👤 Firebase Authentication
-- 📱 Mobile-friendly design
+## 🌟 About the Project
+
+This project was created as part of an internal initiative at **Orbyta Srl**, a digital innovation company based in **Turin, Italy**. It includes the official **Orbyta logo** and media assets representing the company’s creative identity.
+
+---
+
+## 🎮 Features
+
+- 🃏 **StellarMatch** – A card-matching memory challenge  
+- 🧩 **AstroPuzzle** – A timed puzzle game with increasing difficulty  
+- 📊 Real-time score tracking and leaderboard  
+- 👤 Firebase Authentication for users  
+- ⚡ Smooth UI with space-themed animations  
+- 📱 Fully responsive on desktop and mobile
+
+---
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Angular + SCSS + TypeScript  
+- **Frontend**: Angular • SCSS • TypeScript  
 - **Backend**: Firebase Realtime Database + Firebase Auth  
 - **Hosting**: Firebase Hosting
 
+---
 
 ## 🌍 Live Demo
 
 https://orbytamemory.web.app/
 
+> ⚠️ Note: The deployed version uses Orbyta branding and visual assets with internal permission.
+
 ---
 
-Built with 💙 by Hussein Matar
+
+## 🔒 Source Code
+
+The full source code is **not included in this repository**. This repository is intended for documentation and demonstration purposes only.
+
+---
+
+Built with 💙 Orbyta S.R.L (https://orbyta.it) – Turin, Italy  
+By **Hussein Matar**
