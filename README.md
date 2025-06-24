@@ -4,12 +4,6 @@ OrbytaMemo is a **cosmic-themed memory game** built with **Angular** and **Fireb
 
 ---
 
-## 🌟 About the Project
-
-This project was created as part of an internal initiative at **Orbyta Srl**, a digital innovation company based in **Turin, Italy**. It includes the official **Orbyta logo** and media assets representing the company’s creative identity.
-
----
-
 ## 🎮 Features
 
 - 🃏 **StellarMatch** – A card-matching memory challenge  
